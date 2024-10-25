@@ -1,0 +1,16 @@
+---
+title: "R_Markdown_prac4"
+output: html_document
+---
+```{r}
+library(terra)
+library(here)
+
+jan <- terra::rast(here("wc2.1_5m_wind_01 copy.tif"))
+
+#plot raster
+
+plot(jan)
+
+```
+

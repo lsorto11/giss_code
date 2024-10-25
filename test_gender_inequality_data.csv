@@ -1,0 +1,343 @@
+﻿country,year,gi_value
+Afghanistan,2010,0.707
+Afghanistan,2019,0.676
+Angola,2010,0.554
+Angola,2019,0.533
+Albania,2010,0.192
+Albania,2019,0.131
+United Arab Emirates,2010,0.177
+United Arab Emirates,2019,0.045
+Argentina,2010,0.372
+Argentina,2019,0.291
+Armenia,2010,0.346
+Armenia,2019,0.219
+Australia,2010,0.136
+Australia,2019,0.08
+Austria,2010,0.11
+Austria,2019,0.053
+Azerbaijan,2010,0.342
+Azerbaijan,2019,0.317
+Burundi,2010,0.535
+Burundi,2019,0.499
+Belgium,2010,0.092
+Belgium,2019,0.048
+Benin,2010,0.636
+Benin,2019,0.652
+Burkina Faso,2010,0.602
+Burkina Faso,2019,0.594
+Bangladesh,2010,0.602
+Bangladesh,2019,0.521
+Bulgaria,2010,0.229
+Bulgaria,2019,0.205
+Bahrain,2010,0.259
+Bahrain,2019,0.194
+Bahamas,2010,0.369
+Bahamas,2019,0.335
+Bosnia and Herzegovina,2010,0.215
+Bosnia and Herzegovina,2019,0.146
+Belarus,2010,0.148
+Belarus,2019,0.098
+Belize,2010,0.407
+Belize,2019,0.46
+Bolivia (Plurinational State of),2010,0.477
+Bolivia (Plurinational State of),2019,0.426
+Brazil,2010,0.448
+Brazil,2019,0.396
+Barbados,2010,0.35
+Barbados,2019,0.309
+Brunei Darussalam,2019,0.285
+Bhutan,2010,0.476
+Bhutan,2019,0.332
+Botswana,2010,0.502
+Botswana,2019,0.458
+Canada,2010,0.139
+Canada,2019,0.075
+Switzerland,2010,0.057
+Switzerland,2019,0.018
+Chile,2010,0.351
+Chile,2019,0.214
+China,2010,0.247
+China,2019,0.187
+Côte d'Ivoire,2010,0.639
+Côte d'Ivoire,2019,0.623
+Cameroon,2010,0.62
+Cameroon,2019,0.564
+Congo (Democratic Republic of the),2010,0.66
+Congo (Democratic Republic of the),2019,0.618
+Congo,2010,0.618
+Congo,2019,0.589
+Colombia,2010,0.452
+Colombia,2019,0.408
+Cabo Verde,2019,0.353
+Costa Rica,2010,0.318
+Costa Rica,2019,0.239
+Cuba,2010,0.333
+Cuba,2019,0.307
+Cyprus,2010,0.191
+Cyprus,2019,0.235
+Czechia,2010,0.139
+Czechia,2019,0.124
+Germany,2010,0.096
+Germany,2019,0.079
+Denmark,2010,0.049
+Denmark,2019,0.016
+Dominican Republic,2010,0.488
+Dominican Republic,2019,0.448
+Algeria,2010,0.517
+Algeria,2019,0.397
+Ecuador,2010,0.431
+Ecuador,2019,0.387
+Egypt,2010,0.547
+Egypt,2019,0.418
+Spain,2010,0.105
+Spain,2019,0.056
+Estonia,2010,0.159
+Estonia,2019,0.092
+Ethiopia,2010,0.599
+Ethiopia,2019,0.506
+Finland,2010,0.071
+Finland,2019,0.031
+Fiji,2010,0.405
+Fiji,2019,0.337
+France,2010,0.129
+France,2019,0.086
+Gabon,2010,0.52
+Gabon,2019,0.527
+United Kingdom,2010,0.179
+United Kingdom,2019,0.106
+Georgia,2010,0.432
+Georgia,2019,0.3
+Ghana,2010,0.57
+Ghana,2019,0.517
+Guinea,2019,0.628
+Gambia,2010,0.66
+Gambia,2019,0.587
+Guinea-Bissau,2019,0.635
+Greece,2010,0.153
+Greece,2019,0.122
+Guatemala,2010,0.539
+Guatemala,2019,0.495
+Guyana,2019,0.433
+Honduras,2010,0.467
+Honduras,2019,0.43
+Croatia,2010,0.136
+Croatia,2019,0.119
+Haiti,2010,0.608
+Haiti,2019,0.624
+Hungary,2010,0.251
+Hungary,2019,0.239
+Indonesia,2010,0.497
+Indonesia,2019,0.45
+India,2010,0.563
+India,2019,0.476
+Ireland,2010,0.163
+Ireland,2019,0.079
+Iran (Islamic Republic of),2010,0.546
+Iran (Islamic Republic of),2019,0.464
+Iraq,2010,0.602
+Iraq,2019,0.572
+Iceland,2010,0.092
+Iceland,2019,0.051
+Israel,2010,0.145
+Israel,2019,0.098
+Italy,2010,0.123
+Italy,2019,0.054
+Jamaica,2010,0.428
+Jamaica,2019,0.376
+Jordan,2010,0.487
+Jordan,2019,0.45
+Japan,2010,0.117
+Japan,2019,0.083
+Kazakhstan,2010,0.266
+Kazakhstan,2019,0.19
+Kenya,2010,0.603
+Kenya,2019,0.541
+Kyrgyzstan,2010,0.363
+Kyrgyzstan,2019,0.354
+Cambodia,2010,0.514
+Cambodia,2019,0.492
+Korea (Republic of),2010,0.095
+Korea (Republic of),2019,0.075
+Kuwait,2010,0.209
+Kuwait,2019,0.225
+Lao People's Democratic Republic,2010,0.533
+Lao People's Democratic Republic,2019,0.472
+Lebanon,2010,0.432
+Lebanon,2019,0.386
+Liberia,2010,0.66
+Liberia,2019,0.653
+Libya,2010,0.286
+Libya,2019,0.269
+Saint Lucia,2010,0.363
+Saint Lucia,2019,0.355
+Sri Lanka,2010,0.415
+Sri Lanka,2019,0.369
+Lesotho,2010,0.59
+Lesotho,2019,0.57
+Lithuania,2010,0.149
+Lithuania,2019,0.122
+Luxembourg,2010,0.11
+Luxembourg,2019,0.059
+Latvia,2010,0.229
+Latvia,2019,0.166
+Morocco,2010,0.549
+Morocco,2019,0.448
+Moldova (Republic of),2010,0.24
+Moldova (Republic of),2019,0.185
+Madagascar,2010,0.607
+Madagascar,2019,0.575
+Maldives,2010,0.402
+Maldives,2019,0.336
+Mexico,2010,0.417
+Mexico,2019,0.36
+North Macedonia,2010,0.172
+North Macedonia,2019,0.134
+Mali,2010,0.667
+Mali,2019,0.659
+Malta,2010,0.264
+Malta,2019,0.162
+Myanmar,2019,0.497
+Montenegro,2010,0.21
+Montenegro,2019,0.118
+Mongolia,2010,0.415
+Mongolia,2019,0.311
+Mozambique,2010,0.542
+Mozambique,2019,0.495
+Mauritania,2010,0.638
+Mauritania,2019,0.602
+Mauritius,2010,0.373
+Mauritius,2019,0.328
+Malawi,2010,0.612
+Malawi,2019,0.579
+Malaysia,2010,0.264
+Malaysia,2019,0.201
+Namibia,2010,0.538
+Namibia,2019,0.454
+Niger,2010,0.692
+Niger,2019,0.626
+Nigeria,2010,0.67
+Nigeria,2019,0.694
+Nicaragua,2010,0.47
+Nicaragua,2019,0.408
+Netherlands,2010,0.052
+Netherlands,2019,0.028
+Norway,2010,0.07
+Norway,2019,0.016
+Nepal,2010,0.527
+Nepal,2019,0.502
+New Zealand,2010,0.166
+New Zealand,2019,0.1
+Oman,2010,0.34
+Oman,2019,0.261
+Pakistan,2010,0.593
+Pakistan,2019,0.542
+Panama,2010,0.483
+Panama,2019,0.395
+Peru,2010,0.401
+Peru,2019,0.383
+Philippines,2010,0.443
+Philippines,2019,0.392
+Papua New Guinea,2010,0.682
+Papua New Guinea,2019,0.816
+Poland,2010,0.171
+Poland,2019,0.111
+Portugal,2010,0.127
+Portugal,2019,0.078
+Paraguay,2010,0.484
+Paraguay,2019,0.435
+Qatar,2010,0.669
+Qatar,2019,0.167
+Romania,2010,0.343
+Romania,2019,0.232
+Russian Federation,2010,0.275
+Russian Federation,2019,0.164
+Rwanda,2010,0.453
+Rwanda,2019,0.411
+Saudi Arabia,2010,0.746
+Saudi Arabia,2019,0.278
+Sudan,2010,0.614
+Sudan,2019,0.561
+Senegal,2010,0.576
+Senegal,2019,0.51
+Singapore,2010,0.085
+Singapore,2019,0.05
+Sierra Leone,2010,0.652
+Sierra Leone,2019,0.615
+El Salvador,2010,0.396
+El Salvador,2019,0.358
+Serbia,2010,0.207
+Serbia,2019,0.118
+Suriname,2010,0.513
+Suriname,2019,0.406
+Slovakia,2010,0.203
+Slovakia,2019,0.194
+Slovenia,2010,0.128
+Slovenia,2019,0.07
+Sweden,2010,0.051
+Sweden,2019,0.023
+Eswatini (Kingdom of),2019,0.521
+Syrian Arab Republic,2010,0.493
+Syrian Arab Republic,2019,0.487
+Chad,2019,0.7
+Togo,2010,0.627
+Togo,2019,0.584
+Thailand,2010,0.365
+Thailand,2019,0.316
+Tajikistan,2010,0.369
+Tajikistan,2019,0.291
+Timor-Leste,2010,0.53
+Timor-Leste,2019,0.42
+Tonga,2019,0.43
+Trinidad and Tobago,2010,0.335
+Trinidad and Tobago,2019,0.269
+Tunisia,2010,0.287
+Tunisia,2019,0.262
+Turkey,2010,0.416
+Turkey,2019,0.277
+Tanzania (United Republic of),2010,0.564
+Tanzania (United Republic of),2019,0.52
+Uganda,2010,0.549
+Uganda,2019,0.528
+Ukraine,2010,0.296
+Ukraine,2019,0.158
+Uruguay,2010,0.324
+Uruguay,2019,0.267
+United States,2010,0.244
+United States,2019,0.192
+Uzbekistan,2010,0.271
+Uzbekistan,2019,0.251
+Venezuela (Bolivarian Republic of),2010,0.489
+Venezuela (Bolivarian Republic of),2019,0.497
+Viet Nam,2010,0.363
+Viet Nam,2019,0.391
+Samoa,2019,0.432
+Yemen,2010,0.792
+Yemen,2019,0.789
+South Africa,2010,0.456
+South Africa,2019,0.408
+Zambia,2010,0.58
+Zambia,2019,0.521
+Zimbabwe,2010,0.594
+Zimbabwe,2019,0.527
+Very High Human Development,2010,0.223
+Very High Human Development,2019,0.154
+High Human Development,2010,0.384
+High Human Development,2019,0.337
+Medium Human Development,2010,0.558
+Medium Human Development,2019,0.496
+Low Human Development,2010,0.624
+Low Human Development,2019,0.593
+Arab States,2010,0.586
+Arab States,2019,0.529
+East Asia And The Pacific,2010,0.374
+East Asia And The Pacific,2019,0.337
+Europe And Central Asia,2010,0.307
+Europe And Central Asia,2019,0.23
+Latin America And The Caribbean,2010,0.431
+Latin America And The Caribbean,2019,0.39
+South Asia,2010,0.557
+South Asia,2019,0.504
+Sub-Saharan Africa,2010,0.602
+Sub-Saharan Africa,2019,0.578
+World,2010,0.503
+World,2019,0.467
