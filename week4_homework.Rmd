@@ -20,8 +20,6 @@ composite_indices <- read.csv('composite_indices.csv')
 
 world_map <- st_read('World_Countries.geojson')
 
-composite_indices
-
 ```
 
 #filter the columns so only Gender Inequality Index for 2010 and 2019 are left for each country
@@ -104,4 +102,5 @@ tm_shape(gender_inequality_diff_map) +
     legend.position = c("left", "bottom")
   )
 ```
+
 
