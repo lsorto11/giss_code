@@ -1,0 +1,3 @@
+# GISS Practical Week 7: Spatial Autocorrelation
+
+### Analysing Spatial Autocorrelation with Moran’s I, LISA and friends
